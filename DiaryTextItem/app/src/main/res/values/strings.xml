@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DiaryTextItem</string>
+    <string name="encode">Encode</string>
+    <string name="decode">Decode</string>
+    <string name="bullet">Bullet</string>
+    <string name="bullet_1">Bullet 1</string>
+    <string name="bullet_2">Bullet 2</string>
+    <string name="bold">Bold</string>
+    <string name="italic">Italic</string>
+    <string name="underline">Underline</string>
+    <string name="up_size">Up size</string>
+    <string name="down_size">Down size</string>
+    <string name="enter_text_here">Enter text here</string>
+    <string name="color_red">Color:red</string>
+    <string name="color_blue">Color:blue</string>
+</resources>
